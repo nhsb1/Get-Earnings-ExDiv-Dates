@@ -10,7 +10,7 @@ Install
 Usage
 -----
 
-    getpivots -t tickersymbol -x -e
+    get-earnings-exdiv-dates.py -t symbol -x -e
 
 Options
 -----
