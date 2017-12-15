@@ -1,6 +1,6 @@
 # get-earnings-exdiv-date 
 
-Get's earnings date and ex-dividend date data from Yahoo Finance 
+Get earnings date and ex-dividend date data from Yahoo Finance 
 
 Install
 -------
